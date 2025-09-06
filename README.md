@@ -1,5 +1,4 @@
-# cs1530_group11 Dish Rating System
-[Click here for a quick view of our demo server](https://cs1530.elias.eu.org/)
+# DineAI
 
 ## **Contributors**
 
